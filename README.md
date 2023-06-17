@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Rickson U Travinski 🖐️
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sujeitoprogramador)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_ricksonukachinkitravinski)
 
 ![R1ickson GitHub stats](https://github-readme-stats.vercel.app/api?username=R1ickson&show_icons=true&theme=dracula&count_private=true)
 
